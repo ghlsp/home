@@ -4,20 +4,20 @@
     "keywords": "寒晨,个人主页",
     "author": "寒晨",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "imsyy",
-    "logo_text_2": "top",
-    "github": "imsyy",
-    "qq": "1539250352",
-    "email": "one@imsyy.top",
-    "bilibili": "98544142",
-    "telegram": "bottom_user",
+    "logo_text_1": "alml",
+    "logo_text_2": "ml",
+    "github": "ghlsp",
+    "qq": "3362991369",
+    "email": "3362991369@qq.com",
+    "bilibili": "443258561",
+    "telegram": "HC1101",
     "link_1": [
-        "https://blog.imsyy.top/",
+        "https://blog.ivil.top/",
         "fa-solid fa-blog",
         "博客"
     ],
     "link_2": [
-        "https://drive.imsyy.top/",
+        "https://ivil.top/",
         "fa-solid fa-cloud",
         "网盘"
     ],
@@ -32,12 +32,12 @@
         "起始页"
     ],
     "link_5": [
-        "https://web.imsyy.top/",
+        "https://blog.ivil.top/website/",
         "fa-solid fa-book-bookmark",
         "网址集"
     ],
     "link_6": [
-        "https://lab.imsyy.top/",
+        "https://i.ivil.top/",
         "fa-solid fa-flask",
         "实验室"
     ],
